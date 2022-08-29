@@ -5,3 +5,6 @@ An Introduction to Statistical Learning with Applications in R (2nd)
  
 The Elements of Statistical Learning (12th)
 [Link](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf)
+
+Mathematics for Machine Learning
+[Link](https://mml-book.github.io/book/mml-book.pdf)
